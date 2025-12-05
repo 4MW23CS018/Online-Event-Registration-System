@@ -1,3 +1,4 @@
+Effort Estimation
 Task	                                Hours
 Create Confluence Project Plan	      2
 Define Functional Requirements	      2
@@ -10,3 +11,9 @@ Write Test Cases	                    5
 Perform Integration Testing	          5
 Final Documentation	                  2
 Total Hours	                          54
+---------------------------------------------------------------
+Cost Estimation
+Hourly Rate	Total Cost
+₹100/hour	₹5,400
+₹200/hour	₹10,800
+₹300/hour	₹16,200
